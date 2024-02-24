@@ -58,7 +58,7 @@ Feel like adding your own twist to MemeGenie? Here's how you can contribute:
 - Push to the branch (git push origin feature/your-feature).
 - Submit a pull request and let's make some meme magic together!
   
-# Join our Discord Support Server
+## Click to Join our Discord Support Server
 
 
 <a href="https://discord.gg/JUkmJqFb3k">
