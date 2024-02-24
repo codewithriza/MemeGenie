@@ -1,4 +1,5 @@
 # MemeGenie 🧞‍♂️
+![MemeGenie Demo](https://github.com/findkeys/MemeGenie/blob/main/working/Screen%20Recording%202024-02-24%20at%206.59.35%E2%80%AFPM.gif)
 
 ## Description
 
