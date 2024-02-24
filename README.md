@@ -1,4 +1,7 @@
 # MemeGenie 🧞‍♂️
+[![Invite MemeGenie](https://hypixel.net/attachments/invitenow-png.1612713/){:width="100px"}](https://discord.com/oauth2/authorize?client_id=1210928982518661200&permissions=51539666944&scope=bot)
+
+
 ![MemeGenie Demo](https://github.com/findkeys/MemeGenie/blob/main/working/Screen%20Recording%202024-02-24%20at%207.39.54%E2%80%AFPM.gif)
 
 ## Description
