@@ -57,9 +57,14 @@ Feel like adding your own twist to MemeGenie? Here's how you can contribute:
 - Commit your changes (git commit -am 'Add some feature').
 - Push to the branch (git push origin feature/your-feature).
 - Submit a pull request and let's make some meme magic together!
+  
+# Join our Discord Support Server
 
-Support Server
-Join the MemeGenie community on our support server:[discord](https://discord.gg/JUkmJqFb3k)
+
+<a href="https://discord.gg/JUkmJqFb3k">
+  <img src="https://techcult.com/wp-content/uploads/2023/05/how-to-rejoin-a-discord-server-you-left.png" alt="Join our Discord Server" width="400">
+</a>
+
 
 # License
 
