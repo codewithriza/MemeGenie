@@ -62,7 +62,7 @@ Feel like adding your own twist to MemeGenie? Here's how you can contribute:
 
 
 <a href="https://discord.gg/JUkmJqFb3k">
-  <img src="https://techcult.com/wp-content/uploads/2023/05/how-to-rejoin-a-discord-server-you-left.png" alt="Join our Discord Server" width="400">
+  <img src="https://i0.wp.com/nikke.gg/wp-content/uploads/join-us-discord.png?fit=728%2C200&ssl=1" alt="Join our Discord Server" width="400">
 </a>
 
 
