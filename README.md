@@ -66,10 +66,10 @@ Feel like adding your own twist to MemeGenie? Here's how you can contribute:
 </a>
 
 
-# License
+## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/findkeys/MemeGenie/blob/main/LICENSE) .
 
-# Acknowledgments
+## Acknowledgments
 
 Big shoutout to all the meme masters out there who inspired MemeGenie!
