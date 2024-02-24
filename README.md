@@ -47,7 +47,41 @@ Getting set up is a piece of cake:
     python bot.py
 ## Usage
 MemeGenie's here to help you unleash your creativity! Use the commands to create hilarious memes and keep the fun flowing in your server.
-
+It's all about fun, so let's get wild with it. Just hit up `!meme imageyouwannagenerate text` to create some hilarious memes. For instance, `!meme arthur Boi` will do the trick. just a sneak peek at the images you can play with:
+```
+- arthur
+- chungus
+- coffee
+- comingtogether
+- crazysponge
+- disgust
+- drake
+- everyoneisstupid
+- funnysponge
+- futurama
+- imin
+- meandtheboys
+- nice
+- noyouaint
+- ohyea
+- okconnor
+- patrick
+- pikachu
+- poorsquid
+- professional
+- sadcat
+- sadgry
+- sadsponge
+- smugsponge
+- spiderman
+- spongemock
+- stark
+- stonks
+- thisisfine
+- tom
+- uh
+- petergriffin
+```
 ## Contributing
 
 Feel like adding your own twist to MemeGenie? Here's how you can contribute:
