@@ -1,6 +1,6 @@
 # MemeGenie 🧞‍♂️
 <a href="https://discord.com/oauth2/authorize?client_id=1210928982518661200&permissions=51539666944&scope=bot">
-  <img src="https://hypixel.net/attachments/invitenow-png.1612713/" alt="Invite MemeGenie" width="100">
+  <img src="https://hypixel.net/attachments/invitenow-png.1612713/" alt="Invite MemeGenie" width="210">
 </a>
 </br>
 
