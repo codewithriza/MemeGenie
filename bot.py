@@ -3,6 +3,7 @@ from discord.ext import commands
 from PIL import Image, ImageDraw, ImageFont
 import os
 
+
 bot = commands.Bot(command_prefix='!',intents=discord.Intents.all())
 
 @bot.command()
@@ -29,6 +30,9 @@ async def meme(ctx, image_name, *text):
     # Send the modified image
     await ctx.send(file=discord.File('meme.png'))
 
+@bot.command()
+async def roll(ctx, min_value=1, max_value=100):
+    result = random.randint(min_value, max_value)
 
 
 bot.run('TOKEN')
