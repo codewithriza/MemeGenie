@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 from PIL import Image, ImageDraw, ImageFont
 import os
-
+import random
 
 bot = commands.Bot(command_prefix='!',intents=discord.Intents.all())
 
@@ -33,6 +33,6 @@ async def meme(ctx, image_name, *text):
 @bot.command()
 async def roll(ctx, min_value=1, max_value=100):
     result = random.randint(min_value, max_value)
-
+    await ctx.send(f"Rolled a {result} (between {min_value} and {max_value})")
 
 bot.run('TOKEN')
